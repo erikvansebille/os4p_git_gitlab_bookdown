@@ -1,4 +1,4 @@
-# Revert to a previous commit (`git checkout`)
+# 11 - Revert to a previous commit (`git checkout`)
 
 **Key terms/commands:**
 

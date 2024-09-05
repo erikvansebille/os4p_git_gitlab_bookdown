@@ -1,4 +1,4 @@
-# Git $\ne$ GitLab ($\ne$ GitHub)
+# 6- Git $\ne$ GitLab ($\ne$ GitHub)
 
 Thus far, everything is within your local computer and done using `git`. That is the **version control** portion of git, which is important and powerful. However, what makes git a efficient tool for collaboration is its power to share through remote hosts like **GitLub**.
 

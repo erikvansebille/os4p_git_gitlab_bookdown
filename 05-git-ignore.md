@@ -1,4 +1,4 @@
-# Tell git to ignore files
+# 5- Tell git to ignore files
 Make a file named `.gitignore` (you can also use nano/any-text-editor to do it)
 
 Make a file that we would want `git` to ignore

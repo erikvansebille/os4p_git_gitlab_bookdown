@@ -1,4 +1,4 @@
-# Stashing (`git stash`)
+# 13 - Stashing (`git stash`)
 
 There are times when you may want to stash (set aside) your current work rather than commit.
 

@@ -1,4 +1,4 @@
-# Getting a repository from GitLab (fork & `git clone`)
+# 8- Getting a repository from GitLab (fork & `git clone`)
 
 **Key terms/commands:**
 

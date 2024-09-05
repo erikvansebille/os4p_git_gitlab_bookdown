@@ -1,7 +1,9 @@
 # Git & GitLab Tutorial eBook for Open Science for Physicists
 
 
-This is a tutorial on git & GitLab for the course "Open Science for Physicists" at Utrecht University. It is forked and slightly adapted from the tutorial on git & GitHub for scientists without formal programming background: https://gitbookdown.dallasdatascience.com.
+This is a tutorial on git & GitLab for the course [Open Science for Physicists](https://osiris-student.uu.nl/onderwijscatalogus/extern/cursus?cursuscode=NS-PH500M&taal=en&collegejaar=huidig) at [Utrecht University](https://www.uu.nl/en/organisation/department-of-physics/education/masters-programmes).
+
+This tutorial is forked and slightly adapted from the tutorial on git & GitHub for scientists without formal programming background: https://gitbookdown.dallasdatascience.com.
 
 
 Git for version control      |  GitLab for collaboration
@@ -23,6 +25,7 @@ Git facilitates (1) **documentation**, and (2) **sharing/collaborating**. Both o
   + Facilitates new collaboration
   + Encourages open source and open science
 
+
 ## Acknowledgement
 
 * This tutorial is a fork of the tutorial on git & GitHub for scientists without formal programming background: https://gitbookdown.dallasdatascience.com, authored by Micaela Chan [@mychan24](https://github.com/mychan24) & Ekarin Pongpipat [@epongpipat](https://github.com/epongpipat)
@@ -30,3 +33,8 @@ Git facilitates (1) **documentation**, and (2) **sharing/collaborating**. Both o
   * Their tutorial borrows heavily from [Software Carpentry's git novice course](https://swcarpentry.github.io/git-novice/). Software Carpentry provides a lot of resources for other courses and teaching in general. Check them out!
 
   * Special thanks to [@jennywxyz](https://github.com/jennywxyz) for providing feedback and proofreading to their tutorial.
+
+
+## Getting started
+
+This tutorial has 14 lessons and a [glossary](Appendix.md). You can start by clicking on the first lesson ([0 - Preface](00-index.md)) below.

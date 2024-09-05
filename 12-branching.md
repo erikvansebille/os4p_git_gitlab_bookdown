@@ -1,4 +1,4 @@
-# Branching (`git branch`)
+# 12 - Branching (`git branch`)
 
 **Key terms/command**
 

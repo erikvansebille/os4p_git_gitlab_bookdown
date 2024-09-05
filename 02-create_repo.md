@@ -1,4 +1,4 @@
-# Creating a Repository (`git init`)
+# 2- Creating a Repository (`git init`)
 
 **Key terms/commands**
 

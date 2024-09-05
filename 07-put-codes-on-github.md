@@ -1,4 +1,4 @@
-# Putting codes on Github
+# 7- Putting codes on Github
 
 **Key terms/commands:**
 

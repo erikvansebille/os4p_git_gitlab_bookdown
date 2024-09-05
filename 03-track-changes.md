@@ -1,4 +1,4 @@
-# Tracking Changes (`git add & commit`)
+# 3- Tracking Changes (`git add & commit`)
 
 The key commands for documenting changes are `git add` and `git commit`.
 

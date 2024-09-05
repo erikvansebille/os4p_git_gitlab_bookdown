@@ -1,4 +1,4 @@
-# Collaborating (`git fetch & merge (or pull)`)
+# 9 - Collaborating (`git fetch & merge (or pull)`)
 
 **Key terms/commands:**
 

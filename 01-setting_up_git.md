@@ -1,4 +1,4 @@
-# Setting up git
+# 1- Setting up git
 
 ## Command-line vs. GUI
 

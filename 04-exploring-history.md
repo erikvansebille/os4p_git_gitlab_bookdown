@@ -1,4 +1,4 @@
-# Exploring History (`git diff & show`)
+# 4- Exploring History (`git diff & show`)
 
 ## Difference between current file and N commit ago (`git diff HEAD`)
 

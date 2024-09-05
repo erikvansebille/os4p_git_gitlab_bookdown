@@ -1,4 +1,4 @@
-# Preface
+# 0 - Preface
 ## What is this git/GitLab Tutorial about?
 
 The goal of this tutorial is to help physicists to **(1) start using [git](https://git-scm.com/) locally for [version-control](https://en.wikipedia.org/wiki/Version_control) of your code**, and **(2) begin using [GitLab](http://git.science.uu.nl/) to share your code and collaborate with others.**
