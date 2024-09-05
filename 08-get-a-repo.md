@@ -21,7 +21,9 @@
 
 **Clone** YOUR git_tutorial repository onto your local computer:
 
+```bash
 git clone https://git.science.uu.nl/your_username/git-tutorial ~/git-tutorial
+```
 
 ***
 **You have cloned someone else's repository! This is often how collaboration starts through GitLab.**
