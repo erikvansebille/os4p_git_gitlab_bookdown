@@ -1,6 +1,6 @@
-# 6- Git $\ne$ GitLab ($\ne$ GitHub)
+# 6- Git ≠ GitLab (≠GitHub)
 
-Thus far, everything is within your local computer and done using `git`. That is the **version control** portion of git, which is important and powerful. However, what makes git a efficient tool for collaboration is its power to share through remote hosts like **GitLub**.
+Thus far, everything is within your local computer and done using `git`. That is the **version control** portion of git, which is important and powerful. However, what makes git a efficient tool for collaboration is its power to share through remote hosts like **GitLab**.
 
 * GitLab is not the only option, there are other companies that offer free remote hosting, here are a few alternatives like [GitHub](http://github.com) and [Bitbucket](https://bitbucket.org/). However, in this course we use GitLab because it can be accessed through Solis-id.
 
