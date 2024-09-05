@@ -28,7 +28,7 @@ Git facilitates (1) **documentation**, and (2) **sharing/collaborating**. Both o
 
 ## Acknowledgement
 
-* This tutorial is a fork of the tutorial on git & GitHub for scientists without formal programming background: https://gitbookdown.dallasdatascience.com, authored by Micaela Chan [@mychan24](https://github.com/mychan24) & Ekarin Pongpipat [@epongpipat](https://github.com/epongpipat)
+* This tutorial is a fork of the tutorial on git & GitHub for scientists without formal programming background: [gitbookdown.dallasdatascience.com](https://gitbookdown.dallasdatascience.com), authored by Micaela Chan [@mychan24](https://github.com/mychan24) & Ekarin Pongpipat [@epongpipat](https://github.com/epongpipat)
 
   * Their tutorial borrows heavily from [Software Carpentry's git novice course](https://swcarpentry.github.io/git-novice/). Software Carpentry provides a lot of resources for other courses and teaching in general. Check them out!
 
