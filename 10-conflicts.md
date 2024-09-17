@@ -47,7 +47,7 @@ git push origin main
 ```
 
 
-* Note that if you have get an error from git, it tries to give you hints on how to fix the error.
+* Note that if you got an error from git, it tries to give you hints on how to fix the error.
 * It tells you that there is something in the remote repo. It suggests that you should integrate changes first by using `git pull`.
 
 ## Resolving a conflict

@@ -13,7 +13,7 @@
 **Fork** [this repository](https://git.science.uu.nl/os4p-2023/git-tutorial) that hosts this bookdown you are reading into your GitLab.
 
 * Go to https://git.science.uu.nl/os4p-2023/git-tutorial
-* Click the **Fork** icon near the top right corner
+* Click the **Fork** icon near the top right corner and select your studentnumber for the namespace
 * ...It will take a little while to load...
 * You should be redirected to a copy of the same repository in YOUR GitLab account
 
@@ -22,7 +22,7 @@
 **Clone** YOUR git_tutorial repository onto your local computer:
 
 ```bash
-git clone https://git.science.uu.nl/your_username/git-tutorial ~/git-tutorial
+git clone https://git.science.uu.nl/your_studentnumber/git-tutorial ~/git-tutorial
 ```
 
 ***
