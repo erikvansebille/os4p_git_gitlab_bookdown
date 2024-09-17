@@ -59,17 +59,17 @@ git checkout HEAD~1
 
 You should see a warning message about being in a **'detached HEAD'**. (Refer to the Glossary section in the Appendix for a brief overview on "HEAD" and "detached HEAD".)
 
-Use `git checkout master` to return to most recent state.
+Use `git checkout main` to return to most recent state.
 
 ```
-git checkout master
+git checkout main
 ```
 
 ## BONUS - Detached HEAD
 
-**CAUTION 1**: If you make commits while you are in a detached HEAD, returning to "master" (or any other branch)  means those changes are loss (again, we will talk about branches soon).
+**CAUTION 1**: If you make commits while you are in a detached HEAD, returning to "main" (or any other branch)  means those changes are loss (again, we will talk about branches soon).
 
-A [detached HEAD](https://www.git-tower.com/learn/git/faq/detached-head-when-checkout-commit) means you are not in a branch, and any changes you make will disappear when you switch back to a real branch (e.g., `git checkout master`). More about branching and how to prevent your works from disappearing in the next chapter!
+A [detached HEAD](https://www.git-tower.com/learn/git/faq/detached-head-when-checkout-commit) means you are not in a branch, and any changes you make will disappear when you switch back to a real branch (e.g., `git checkout main`). More about branching and how to prevent your works from disappearing in the next chapter!
 
 ## Reverting back to a past commit (`git revert`)
 

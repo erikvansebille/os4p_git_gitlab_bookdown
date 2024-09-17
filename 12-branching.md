@@ -2,7 +2,7 @@
 
 **Key terms/command**
 
-* **Branch**: independent line of development typically used to develop new features without disturbing the rest of the repository. The default branch is called the **"Master"** branch.
+* **Branch**: independent line of development typically used to develop new features without disturbing the rest of the repository. The default branch is called the **"main"** branch. Note that on GitHub.com, this default branch is called `master`.
 
 * **git branch**: handles the creation, renaming and deletion of branches. Note that `git checkout` is used to switch between branches.
 
@@ -15,7 +15,7 @@ Create a new branch!
 
 ## Check what branch you're on
 
-If you've never changed a branch. You're likely using the `master` or main branch.
+If you've never changed a branch. You're likely using the `main` or main branch.
 
 It's always a good idea to check what branch you're using:
 
@@ -68,7 +68,7 @@ Note: You can also create and switch to a branch in one command using:
 git checkout -b <branch_name>
 ```
 
-Now that you're in your new branch, you can make, edit, and commit script(s) as you want without affecting anything on the master branch.
+Now that you're in your new branch, you can make, edit, and commit script(s) as you want without affecting anything on the main branch.
 
 ```
 touch cool_new_function.sh
@@ -79,23 +79,23 @@ ls
 
 ## Merge branch
 
-Ready to make the modification available to everyone? Let's merge the change back to the master branch.
+Ready to make the modification available to everyone? Let's merge the change back to the main branch.
 
-First, we have to switch back to the master branch `git checkout master` and then merge the commit `git merge <branch_name>`
+First, we have to switch back to the main branch `git checkout main` and then merge the commit `git merge <branch_name>`
 
 ```
-git checkout master
+git checkout main
 ls
 ```
 
-Notice that there is no cool_new_function.sh file in the master branch.
+Notice that there is no cool_new_function.sh file in the main branch.
 
 ```
 git merge cool_new_function
 ls
 ```
 
-The cool_new_function.sh file is now available on the master branch after merging.
+The cool_new_function.sh file is now available on the main branch after merging.
 
 ## Delete a branch
 
@@ -130,14 +130,14 @@ git add loss.txt
 git commit -m "Adding loss.txt while in detached HEAD"
 ```
 
-### Return to master branch
+### Return to main branch
 ```
-git checkout master
+git checkout main
 ```
 
 > The output would warn you that you are "leaving 1 commit behind".
 
-### You are now back in the 'master' branch, and `loss.txt` is gone (check with `ls`)
+### You are now back in the 'main' branch, and `loss.txt` is gone (check with `ls`)
 
 Luckily, the output message actually tells you how to recover those changes (for now, before Git eventually deletes it).
 ```

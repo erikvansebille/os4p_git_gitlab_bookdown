@@ -23,7 +23,7 @@ git commit -m "Add fake collab line to foo.txt"
 Push the change to the remote repository
 
 ```
-git push origin master
+git push origin main
 ```
 
 Now go into the original `workdir` and add a different line to `foo.txt`
@@ -43,7 +43,7 @@ git commit -m "Add real me line to foo.txt"
 Try to push it, and you should get an error
 
 ```
-git push origin master
+git push origin main
 ```
 
 

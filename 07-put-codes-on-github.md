@@ -28,7 +28,7 @@ git remote -v
 Push your local repository to your GitLab repository.
 
 ```
-git push –u origin master
+git push –u origin main
 ```
 
 ***

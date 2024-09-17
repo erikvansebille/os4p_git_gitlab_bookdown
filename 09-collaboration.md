@@ -30,7 +30,7 @@ git commit -m "Add foofoo.txt"
 Push this change to GitLab
 
 ```
-git push origin master
+git push origin main
 ```
 
 Lets check what is in the current folder
@@ -61,7 +61,7 @@ git fetch
 NOTE that this does not change the files in your directory. But now you can use check to see what your collaborator has changed
 
 ```
-git diff master origin/master`
+git diff main origin/main`
 ```
 
 If you decided these are changes you want in your local directory (the original `workdir`)

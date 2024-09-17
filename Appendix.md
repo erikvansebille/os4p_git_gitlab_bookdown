@@ -5,7 +5,7 @@
 
 * **Repository (repo)**: a local repository tracks all the changes you made in that directory. In tangible form, it is a `.git/` folder that lives inside the directory.
 
-* **Branch**: independent line of development typically used to develop new features without disturbing the rest of the repository. The default branch is called the **"Master"** branch.
+* **Branch**: independent line of development typically used to develop new features without disturbing the rest of the repository. The default branch is called the **"main"** branch.
 
 * **Clone**: the concept of a "clone" just means to copy the entire repository.
 
@@ -15,7 +15,7 @@
 
 * **Fork**: within the context of GitHub, to fork is to copy someone's GitHub repository and put it in your GitHub account. Under the hood, it is just cloning their repository.
 
-* **HEAD**: refers to the latest commit in the branch you are at. By default, you are the most recent commit of the master branch. When you `git checkout different_branch`, HEAD is now at the most recent commit of `different_branch`. If you are not at the most recent commit of a branch (e.g., you `git checkout` a previous commit), you are now in a `detached HEAD`.
+* **HEAD**: refers to the latest commit in the branch you are at. By default, you are the most recent commit of the main branch. When you `git checkout different_branch`, HEAD is now at the most recent commit of `different_branch`. If you are not at the most recent commit of a branch (e.g., you `git checkout` a previous commit), you are now in a `detached HEAD`.
   + Note that changes made in a **detached HEAD** situation would not be recorded once you `git checkout` back to the HEAD of the branch or to a different branch.
 
 
