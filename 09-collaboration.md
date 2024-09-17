@@ -102,13 +102,13 @@ git remote set-url [name] [newurl]
 
 Icons made by [Smashicons](https://www.flaticon.com/authors/smashicons), [Dave Gandy](https://www.flaticon.com/authors/dave-gandy), [Iconnice](https://www.flaticon.com/authors/iconnice) from Flaticon.
 
-* **Using pull request (advance)**, useful for collaborating with anyone, including strangers!
+* **Using merge request (advance)**, useful for collaborating with anyone, including strangers!
 	+ **fork** a repository you want to make changes
 	+ **git clone** it to your local computer
 	+ Make changes, **git add**, **git commit** and **git push** it to your forked remote repo
-	+ Make a [Pull Request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) in the original repository so the owner can review and decide whether they want to incorporate the changes you made.
+	+ Make a [Merge Request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) in the original repository so the owner can review and decide whether they want to incorporate the changes you made. Note that on GitHub, this is called a "Pull Request".
 
-* Adding collaborators in your GitHub repository
+* Adding collaborators in your GitLab repository
 	+ Click **Manage** and then **Members** in your repository
 	+ Click **Invite members** and add them (they need to be on GitLab)
 
