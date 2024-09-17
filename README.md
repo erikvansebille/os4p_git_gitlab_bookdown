@@ -37,4 +37,4 @@ Git facilitates (1) **documentation**, and (2) **sharing/collaborating**. Both o
 
 ## Getting started
 
-This tutorial has 14 lessons and a [glossary](Appendix.md). You can start by clicking on the first lesson ([0 - Preface](00-index.md)) below.
+This tutorial has 14 lessons, an exercise and a [glossary](Appendix.md). You can start by clicking on the first lesson ([0 - Preface](00-index.md)) below.
