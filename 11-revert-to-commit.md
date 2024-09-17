@@ -123,7 +123,7 @@ git commit -m "badjoke 2"
 ```
 
 ```
-echo "and git out of there!" >> badjoke.txt
+echo "and git out of there" >> badjoke.txt
 git add badjoke.txt
 git commit -m "badjoke 3"
 ```
