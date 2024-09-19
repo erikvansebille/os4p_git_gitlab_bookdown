@@ -14,7 +14,7 @@ cd ~/workdir
 
 Add the github repo you just made as a remote repository that you want to push your data to.
 
-* **Replace** your_username with your github username
+* **Replace** your_username with your github username (=Solis-ID)
 
 ```{bash}
 git remote add origin https://git.science.uu.nl/your_username/workdir.git
