@@ -34,7 +34,7 @@ git push -u origin main
 **Note** that if you encounter an `error: src refspec main does not match any` error, you may need to first create a commit in your local repository.
 
 ```
-git add .gitingore
+git add .gitignore
 git commit -m "Add .gitignore"
 ```
 
