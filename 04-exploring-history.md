@@ -27,7 +27,7 @@ You can check difference between the current file against a specific commit base
 ```
 git diff <unique identifier> foo.txt
 ```
-
+where `<unique identifier>` is the long string _without_ the angled brackets.
 
 ## What was done in ____ commit? (`git show`)
 
