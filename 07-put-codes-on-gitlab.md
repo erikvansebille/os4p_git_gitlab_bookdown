@@ -31,7 +31,20 @@ Push your local repository to your GitLab repository.
 git push -u origin main
 ```
 
-If you encounter a problem with authentication, you may want to create and add an SSH-keypair. See [here](https://docs.gitlab.com/ee/user/ssh.html) for a tutorial how to do that on GitLab.
+**Note** that if you encounter an `error: src refspec main does not match any` error, you may need to first create a commit in your local repository.
+
+```
+git add .gitingore
+git commit -m "Add .gitignore"
+```
+
+Then try to push again.
+
+```
+git push -u origin main
+```
+
+Further note that if you encounter a problem with authentication, you may want to create and add an SSH-keypair. See [here](https://docs.gitlab.com/ee/user/ssh.html) for a tutorial how to do that on GitLab.
 
 ***
 **Your code is now available on GitLab!**
