@@ -9,6 +9,8 @@ So far, you've used the command line to interact with git. While this is a good 
 
 GitHub Desktop is a GUI for git that is available for Windows and MacOS. It is a good tool for beginners who are not yet comfortable with the command line. You can download it [here](https://desktop.github.com/).
 
+While GitHub Desktop is designed to work with GitHub, it can also be used with other git repositories such as those at [git.science.uu.nl](https://git.science.uu.nl).
+
 ## SourceTree
 
 SourceTree is a free GUI for git that is available for Windows and MacOS. It is a bit more advanced than GitHub Desktop, but it is still easy to use. You can download it [here](https://www.sourcetreeapp.com/).
