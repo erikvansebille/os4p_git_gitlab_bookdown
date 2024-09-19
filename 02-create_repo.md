@@ -19,7 +19,7 @@ cd ~/workdir
 Create a repository within a folder
 
 ```bash
-git init
+git init -b main
 ```
 
 Check that a hidden folder `.git` has been created
