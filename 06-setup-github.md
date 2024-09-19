@@ -18,7 +18,7 @@ But GitLab furthermore also comes with tons of tools to help you visualize and m
 	+ Click **New Project**
 	+ Choose **Create blank project**
 	+ Enter `workdir` as the **Project name**
-	+ Choose your email address as the **Namespace** in the project url (not os4p)
+	+ Choose your solis-ID as the **Namespace** in the project url (not os4p)
 	+ Set it to **Internal**
 	+ Untick the **Initialize repository with a README** box, we will be importing a repo onto GitLab
 	+ Click **Create repository**
