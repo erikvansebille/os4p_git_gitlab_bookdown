@@ -28,7 +28,7 @@ git remote -v
 Push your local repository to your GitLab repository.
 
 ```
-git push –u origin main
+git push -u origin main
 ```
 
 If you encounter a problem with authentication, you may want to create and add an SSH-keypair. See [here](https://docs.gitlab.com/ee/user/ssh.html) for a tutorial how to do that on GitLab.
